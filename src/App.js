@@ -168,7 +168,7 @@ function App() {
         <h1>Happy Valentines, Brooke</h1>
         <p>
           Here are some of my favorite photos and memories of the last 8 months
-          of dating you. Love you!
+          of dating you. Love you! (Click photos to see caption.)
         </p>
       </div>
       {images.map(i => (
