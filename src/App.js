@@ -34,12 +34,12 @@ const images = [
   {
     img: brooke_birthday,
     text:
-      'This was such a fun day. I loved that you loved that day, and I also loved slamming around utah lake in a jet ski.',
+      'This was such a fun day. I loved that you loved that day, and shared your bday with me. I also loved slamming around utah lake in a jet ski.',
   },
   {
     img: golf,
     text:
-      'I loved seeing how much fun you had playing golf. You were wild, smiling, laughing, and I loved that day with you. ',
+      'You were the cutest and most fun playing golf (drinking white claws and driving the cart). You were wild, smiling, laughing, and I loved that day with you. ',
   },
   {
     img: brooke_glasses,
@@ -47,14 +47,18 @@ const images = [
       'Another night when you were really happy, and goofy. Remember shooting the nerf gun against the glasses?',
   },
   {
+    img: smith_morehouse,
+    text: 'We had so many fun summer activities like this one. You are my #1 adventure partner.'
+  },
+  {
     img: barton_springs_2,
     text:
-      'Barton springs was one of the highlights of texas with you. You looked great, the water was relaxing, and it was just a really special moment to share experiencing that springs for the first time with you.',
+      'Barton springs was one of the highlights of texas with you. You looked great, the water was relaxing, and it was just a really special moment to experience the springs for the first time with you.',
   },
   {
     img: bed_1,
     text:
-      'I dont remember exactly when this was, but I love going to sleep with you. Lying in bed, talking, cuddling, etc is one of my favorite things.',
+      'I dont remember exactly when this was, but I love going to sleep with you. Lying in bed with you while talking and cuddling is one of my favorite things.',
   },
   {
     img: covey_repair,
@@ -83,7 +87,7 @@ const images = [
   {
     img: furniture_shopping,
     text:
-      'I had so much fun with you this day and i couldnt stop staring at you; you were the most beautiful girl in the whole furniture shop.',
+      'I had so much fun with you this day and I couldnt stop staring at you; you were the most beautiful girl in the whole furniture shop. Even that cute worker guy was flirting with you :)',
   },
   {
     img: fall_pee,
@@ -92,12 +96,12 @@ const images = [
   {
     img: grump,
     text:
-      'Sometimes you are a grump. But I still have a major soft spot for you when youre grumpin',
+      'Sometimes you are a grump. But I still have a major soft spot for you when youre grumpin.',
   },
   {
     img: kiss,
     text:
-      'I love this pic. I love kissing you. This was just a chill day and even though it was a paddle board fail I loved hanging with you and the girls.',
+      'I love this pic. This was just a chill day and even though it was a paddle board fail I loved hanging with you and the girls.',
   },
   {
     img: ambien_trip,
@@ -111,7 +115,7 @@ const images = [
   {
     img: drive_in,
     text:
-      'Man, my heart was hurting this day because of how much I wanted to date ya again. We had such a good date but I wanted you to be my gf',
+      'Man. This was such a fun date but also my heart was hurting because I wanted you to be my gf and I wasnt sure if it was going to happen or not. Also was this the time your car died? LOL',
   },
   {
     img: luke_birthday,
@@ -121,7 +125,7 @@ const images = [
   {
     img: miami_1,
     text:
-      'We just got back from miami and man what a good trip. I loved playing in the water with you, looking at sea life, getting in trouble for getting sand in your suit. the usual <3 ',
+      'We just got back from Miami and it was such a good trip. I loved playing in the water with you, looking at sea life, getting in trouble for getting sand in your suit. the usual <3 ',
   },
   {
     img: brooke_naked_work,
@@ -136,7 +140,7 @@ const images = [
   {
     img: palm_springs_tongue,
     text:
-      'This trip was magical because of you. Looking at these photos it feels like a weird dream.',
+      'This trip was mostly magical because of you. Looking at these photos it feels like a really good dream.',
   },
   {
     img: san_clemente,
@@ -146,12 +150,12 @@ const images = [
   {
     img: tennis,
     text:
-      'You appeased me and played tennis, and we actualy had fun. Thank you for being willing to try new stuff with me.',
+      'You appeased me and played tennis, and we actually had fun! Thank you for being willing to try new stuff with me.',
   },
   {
     img: dogs,
     text:
-      'Little chiuaua in front, big bulldog in the back. I love being your partner and I like that we look out for each other.',
+      'Little Chihuahua in front, Big Bulldog in the back. I love being your partner and I like that we look out for each other. You got the bark and I got the bite. Love you.',
   },
 ];
 
